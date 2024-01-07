@@ -6,7 +6,7 @@ Giving ChatGPT access to a web browser.
 You can watch me as I build this out on youtube if you find that stuff interesting.
 
 ## Done so far:
-
+- https://youtu.be/FsbfEs57zZo
 - Open a browser using Playwright.
 - ChatGPT can navigate to a webpage and read the page contents.
 
